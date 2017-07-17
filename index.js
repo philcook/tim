@@ -33,4 +33,4 @@ if (program.hustle) player.play(path.join(__dirname, "./hustleon.mp3"));
 if (program.issues) player.play(path.join(__dirname, "./issues.mp3"));
 if (program.lesgo) player.play(path.join(__dirname, "./lesgo.mp3"));
 if (program.upintha) player.play(path.join(__dirname, "./upintha.mp3"));
-if (program.yunnastan) player.play(path.join(__dirname, "./yunnstan.mp3"));
+if (program.yunnastan) player.play(path.join(__dirname, "./yunnastan.mp3"));

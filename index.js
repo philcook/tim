@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-let Afplay = require('afplay');
+let Ffmpeg = require('ffmpeg');
 let program = require('commander');
 let path = require('path');
 
-let player = new Afplay;
+let player = new Ffmpeg;
 
 program
   .option('b, big, thats big')
